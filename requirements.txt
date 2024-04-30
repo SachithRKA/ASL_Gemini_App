@@ -1,0 +1,7 @@
+gradio
+google
+opencv-python
+numpy
+tensorflow
+mediapipe
+python-dotenv
