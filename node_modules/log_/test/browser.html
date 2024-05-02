@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Log_ Browser Test</title>
+</head>
+<body>
+  <h2>Open Your Console</h2>
+  <script src="../src/browser.js"></script>
+  <script>
+
+    var last = [];
+    var clog = console.log;
+
+    window.console.log = function () {
+      last = arguments;
+      clog.apply(console, arguments);
+    };
+
+    Log('namespace', 'green')('message');
+    Log('namespace')({object: 'should be serialized'});
+    Log('fancy', 'bold')('message');
+    Log('fancy', 'italic')('message');
+    Log('fancy', 'underline')('message');
+
+  </script>
+</body>
+</html>

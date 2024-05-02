@@ -104,6 +104,7 @@ def asl_video():
 def greet():
     global convo
 
+    # Example values
     sentence = "Hello"
     expected = "Hello"
     questionsRight = 4
