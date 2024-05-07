@@ -51,4 +51,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For any questions, suggestions, or issues regarding the ASL Gemini App, please contact [your_email@example.com](mailto:your_email@example.com).
+For any questions, suggestions, or issues regarding the ASL Gemini App, please contact [sachithRKAexample.com](mailto:sachithRKA@example.com).
