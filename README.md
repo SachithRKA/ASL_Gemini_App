@@ -6,6 +6,8 @@ Welcome to the ASL Gemini App repository! This project is designed to help users
 
 The ASL Gemini App utilizes AI technology to teach users ASL vocabulary and assess their signing accuracy. Users are presented with ASL words or phrases and are prompted to sign them using the camera on their device. The app then compares the user's signed language to the expected word or phrase, providing feedback and guidance based on Gemini's advice.
 
+Video Demonstration: https://youtu.be/Ugdj0LZ2tBc
+
 ## Features
 
 - **Interactive Gameplay**: Users engage in interactive gameplay where they sign ASL words or phrases prompted by the app.
